@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "001e",
+      "firstName": "Harsh",
+      "lastName": "Mishra",
+      "email": "mharsh911@gmail.com",
+      "phoneNumber": "9695825501",
+      "address": "Ameer Nagar, 30\n30",
+      "gender": "Male"
+    },
+    {
+      "id": "f9f7",
+      "firstName": "Jhon",
+      "lastName": "Doe",
+      "email": "Jhon@doe.com",
+      "phoneNumber": "9883445678",
+      "address": "USA",
+      "gender": "Male"
+    },
+    {
+      "id": "2da2",
+      "firstName": "Test",
+      "lastName": "user",
+      "email": "test@user.com",
+      "phoneNumber": "6783546790",
+      "address": "New york",
+      "gender": "Female"
+    },
+    {
+      "id": "9bee",
+      "firstName": "tes",
+      "lastName": "user 2",
+      "email": "test@user2.com",
+      "phoneNumber": "9695825501",
+      "address": "Ameer Nagar, 30\n30",
+      "gender": "Female"
+    },
+    {
+      "id": "9beu",
+      "firstName": "tes",
+      "lastName": "user 3",
+      "email": "test@user3.com",
+      "phoneNumber": "9695825501",
+      "address": "Ameer Nagar, 30\n30",
+      "gender": "Female"
+    },
+    {
+      "id": "9be33",
+      "firstName": "tes",
+      "lastName": "user 4",
+      "email": "test@user4.com",
+      "phoneNumber": "9695825501",
+      "address": "Ameer Nagar, 30\n30",
+      "gender": "Female"
+    },
+    {
+      "id": "9be3123",
+      "firstName": "test",
+      "lastName": "user 5",
+      "email": "test@user5.com",
+      "phoneNumber": "9695825501",
+      "address": "Ameer Nagar, 30\n30",
+      "gender": "Female"
+    }
+  ]
+}
