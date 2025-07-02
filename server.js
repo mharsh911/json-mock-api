@@ -7,7 +7,7 @@ const middlewares = jsonServer.defaults({ static: false });
 server.use(middlewares);
 server.use(router);
 server.use((_req, _res, next) => {
-  setTimeout(next, 2000); // 800ms delay
+  setTimeout(next, 800);
 });
 
 const port = process.env.PORT || 3000;
